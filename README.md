@@ -1,1 +1,108 @@
-# pensamento-computacional-luiz
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <title>Shaype dos Sonhos</title>
+</head>
+<body>
+       <h1>Aqui nós iremos abordar aguns temas sobre o meio fitness, que talvez possam te ajudar a melhorar a sua saúde e sua estética corporal.</h1>
+
+       <h1>Dieta x alimentação saudável.</h1> 
+
+    <p>
+        Além da aparência estética hoje muitas pessoas estão em busca também de saúde e qualidade de vida.
+        Cada vez mais vemos pessoas mudando seus hábitos alimentares , reduzindo alimentos industrializados e incluindo alimentos saudáveis na rotina. Esse cuidado é muito importante ao longo da vida e só traz benefícios.
+    </p>
+    <p>Comer saudável é DIFERENTE de fazer dieta, porque a dieta é um plano individualizado com determinado objetivo como: controlar colesterol, diabetes, emagrecimento ou ganho de massa muscular. Tem restrição de alimentos processados, ricos em açúcar, sal e gordura, e o seu plano alimentar é calculado com o máximo de alimentos saudáveis e dentro das calorias e macronutrientes (proteína, carboidrato, gordura) que você previsa. </p>
+    <p>Já a alimentação saudável é uma reeducação alimentar que mantém um EQUILÍBRIO com alimentos saudáveis  e não tem restrição de outros alimentos. Nesse tipo de alimentação não tem quantidade estipulada ou horários para as refeições, então você nao tem o controle de calorias para saber se está comendo mais ou menos calorias do que gasta diariamente. </p>
+    <p>
+        Então podemos ver que são estratégias diferentes para objetivos diferentes.
+        Com dieta você se alimenta saudável , tem resultados, saúde e qualidade de vida porque não ficará naquele efeito sanfona de emagrecer e engordar sempre, e na alimentação saudável você tem todos os benefícios de saúde, mas sem o controle de calorias você não tem mudanças significativas em ganho ou perda de peso.
+    </p>
+
+    <h1>Exercícios x Gordura localizada.</h1> 
+
+    <p>A maior reclamação quando o assunto é melhoria no físico com certeza é a GORDURA localizada, principalmente na barriga.</p>
+    <p>Muitas pessoas tem dúvida sobre qual exercícios seria mais eficiente para queimar essa gordura , mas a verdade é que o exercício em si não tem essa capacidade de eliminar gordura em partes específicas. </p>
+    <p>A musculação trabalha o músculo para hipertrofia (aumento da massa muscular) , e durante os exercícios temos um gasto de energia excelente para quem está em processo de emagrecimento. Nesse processo de perda de energia perdemos gordura como um todo, e não há como escolher de que parte essa gordura vai sair primeiro.</p>
+    <p>Os exercícios abdominais também trabalham a musculatura para fortalecimento e hipertrofia, e não para perda localizada. </p>
+    <p>
+        Então é mito que fazer abdominais elimina gordura.
+        Qual a solução então ?
+    </p>
+    <p>O segredo está na alimentação , no DÉFICIT CALÓRICO para promover essa perda de gordura. Por isso a importância de uma dieta calculada para o seu objetivo, aliado a musculação e aeróbico para acelerar o processo. </p>
+    <p>Não temos a opção de escolher de onde vai sair a gordura primeiro , e normalmente a gordura localizada na barriga ou flancos são as mais resistentes. Então não desista e tenha paciência durante o processo que os resultados irão aparecer.</p>
+
+    <h1>Como desenvolver um grupo muscular. </h1>
+
+    <p>É muito comum que você tenha facilidade de desenvolver certos músculos e outros nem tanto. Afinal , não ter a mesma resposta em hipertrofia para todos os músculos treinados é normal. Por exemplo, homens que tem facilidade de desenvolver bíceps e os ombros acabam ficando muito menores, ou mulheres que tem um quadríceps mais volumoso e um posterior que não aparece. </p>
+
+    <h2>Por isso hoje eu vou te dar dicas de como desenvolver seu ponto fraco:</h2>
+
+    <ol>
+        <li>✔️Aumente a FREQUÊNCIA de treino: treine esse músculo mais vezes na semana , ele precisa de mais estímulo para se desenvolver.</li>
+        <li>✔️Faça PROGRESSÃO de cargas: ajuste o peso que você usa para fazer os exercícios conforme você ganha mais força. Se você consegue realizar 15 repetições tranquilamente aumente o peso e faça 12 repetições na série seguinte.</li>
+        <li>✔️Acrescente exercícios ISOLADOS: além dos multiarticulares, você também pode dar um estímulo a mais fazendo de forma isolada.</li>
+        <li>
+            ✔️VARIE os estímulos: provavelmente seu músculo deve estar acostumado com os mesmos exercícios, séries e repetições. Você precisa variar essas estratégias com métodos como drop set, bi set, isometrias dentro do seu plano de treino. Conte sempre com a ajuda de um professor de educação física para periodizar seu treino.
+            Em muitos casos o grupo muscular nao desenvolve de forma igual por falta de treinamento mesmo, por exemplo homens que tem os membros superiores muito maiores que os inferiores e mulheres com inferiores muito maiores que superiores. Muitas vezes é falta de prioridade naquele grupo muscular.
+            Por isso não esqueça de treinar seu corpo todo para que ele fique em proporções iguais e dar ênfase naqueles músculos que não acompanham o desenvolvimento.
+        </li>
+    </ol>
+
+    <h1>Substituição de alimentos na dieta.</h1>
+
+    <p>Existem muitas dúvidas quanto a substituir algum alimento na dieta, mas primeiro vocês devem entender que um macronutriente como proteína, carboidrato ou gordura tem o mesmo VALOR dentro da dieta. </p>
+    <p>
+        Proteínas e carboidratos tem 4 calorias e gordura tem 9 calorias. Isso significa que se eu comer 30g de carboidrato sendo arroz ou batata, o meu organismo vai receber esse carboidrato e converter em glicose. Logo, você pode escolher o alimento que melhor se encaixa na sua realidade.
+        Quando falamos em proteínas é a mesma regra, se eu comer 30g de proteína, seja carne ou frango, o meu organismo vai receber os aminoácidos e usar para suas funções.
+    </p> 
+    <p>Então não precisamos comer só frango, só ovo, só arroz. Existe uma variação grande dos alimentos dentro de cada macronutriente justamente para você poder escolher o que cabe melhor no seu bolso, o que é mais agradável para o seu paladar , ou até mesmo o que é mais prático para o seu dia a dia. </p>
+    <p>Precisamos nos atentar somente na questão das gorduras presentes nas fontes de proteína, pois algumas são mais limpas e outras mais gordurosas. Por exemplo, 85g de peito de frango tem 2g de gordura e 85g de contra- Filé tem 15g de gordura.</p>
+    <p>Outra coisa a ser observada além dos valores de macronutrientes, são as vitaminas e minerais de cada alimento, afinal não queremos um alimento só para bater os macros e sim para nutrir nosso organismo e obter seus benefícios em saúde.</p>
+
+    <h1>5 alimentos que parecem ser saudáveis, mas não são. </h1>
+
+    <p>Muitas vezes o rótulo dos alimentos pode enganar o consumidor, isso porque existem muitos ingredientes ocultos que não tem nada de saudável. O primeiro passo para identificar se um alimento realmente é saudável, é ler a lista de ingredientes.</p>
+    <p>Produtos com muitos aditivos químicos como corante, conservante, estabilizantes, excesso de gordura, açúcar e sódio são exemplos de uma lista de um alimento que não é nada saudável e pode trazer doenças a longo prazo. </p>
+    <p>Como vocês sabem, não existe um alimento que sozinho seja vilão, mas alguns não podem fazer parte da nossa rotina alimentar, porque o excesso traz sim malefícios à saúde e comprometem o funcionamento do organismo. </p>
+
+    <h2>Veja agora quais são os 5 alimentos:</h2>
+
+    <ol>
+        <li>✔️ GELATINA- ao contrário do que muitos pensam, não é um alimento saudável e não ajuda no emagrecimento porque tem somente 2g de colágeno e muito açúcar em sua composição.</li>
+        <li>✔️ TORRADA INTEGRAL- só porque contém fibras não significa que é saudável. Em sua maioria o primeiro ingrediente da lista é a farinha de trigo, o que significa que ela está presente em maior quantidade, além disso contém sal, açúcar e gordura. 3 torradas equivalem a 90g de arroz (115 calorias).</li>
+        <li>✔️PEITO DE PERU- muito conhecido por compor lanches “naturais”, porém não deixa de ser uma carne processada como o presunto. Quando há um grande consumo de substâncias com nitrito e nitrato de sódio,pode-se aumentar a formação de nitrosaminas, compostos químicos que causam reações tóxicas no organismo.</li>
+        <li>✔️BARRA DE CEREAL- essas comercializadas em mercado costumam ser cheias de açúcar (amido de milho, xaropes) e são pobres em nutrientes. Não podendo ser considerada uma opção de lanche.</li>
+        <li>✔️ SOPA EM PÓ- é uma opção prática de preparar e até parece ser uma opção fit, porém essas sopas de sachê ou potinho são ricas em sódio. Cada unidade pode conter entre 500mg e 800mg de sódio.</li>
+    </ol>
+
+    <h1>A importância de ter um bom funcionamento intestinal.</h1>
+
+    <p>O intestino é considerado o nosso segundo cérebro e tem funções importantes para nossa nutrição e para as defesas do organismo. </p>
+    <p>Um intestino que funciona bem garante uma boa IMUNIDADE, pois cerca de 70% a 80% de todas as células imunológicas presentes em todo o corpo se encontram nele. </p>
+    <p>Responsável pela absorção de NUTRIENTES e MINERAIS , o intestino também ajuda no bom funcionamento do cérebro, isso porque 90% do triptofano é sintetizado no intestino, esse aminoácido essencial é utilizado pelo cérebro para ajudar o corpo a produzir a SEROTONINA, neurotransmissor responsável pelo humor e sensação de bem estar. </p>
+        <p>
+            Se você tem uma má alimentação, pouca atividade física, pouco consumo de água e um sono desregulado acaba prejudicando a sua saúde intestinal e consequentemente, todo o corpo.
+            Para manter o bom funcionamento do intestino é fundamental manter uma dieta saudável, evitando alimentos processados e embutidos , ingerindo alimentos ricos em FIBRAS como cereais, frutas e verduras, além de uma boa hidratação.
+        </p>
+    <p>Um bom aliado são os  probióticos que ajudam a equilibrar o intestino pois estimulam o crescimento de bactérias benéficas ajudando no fortalecimento da imunidade. </p> 
+    <p>Pratique exercícios físicos, um estudo mostrou que pessoas que se exercitam de forma regular têm menos chance de desenvolver câncer  de intestino quando comparadas a pessoas sedentárias. Isso acontece porque o exercício estimula a movimentação do intestino e contribui para o controle do peso e para a diminuição do estresse.</p> 
+    <p> Tudo isso vai muito além de prevenir prisões de ventre, gases e inchaço abdominal, tem a ver com o bom funcionamento de todo o organismo,prevenção de doenças e melhora da absorção de nutrientes. O que faz com que você tenha melhores resultados.</p>
+
+    <h1>Métodos de treino: Tensional x Metabólico.</h1> 
+
+    <p>Algumas pessoas fazem sempre os mesmos exercícios,mesma quantidade de repetições e dão o mesmo intervalo de descanso ou não controlam o descanso. É por isso que muitas não tem o resultado esperado ou estagnam.</p> 
+    <p>Variar os métodos de treinamento é muito importante para que seu organismo não se adapte ao estímulo e pare de evoluir. </p> 
+    <p>Essa variação precisa estar dentro da PERIODIZAÇÃO de treino, não é algo que mudamos sem planejar antes. Por isso é importante ter um bom profissional para te auxiliar no planejamento de treino. </p> 
+    <p>Tanto o treino metabólico quanto o treino tensional podem ser feitos com o objetivo de HIPERTROFIA muscular ou melhora da resistência, o que muda são os estímulos de cada método. </p> 
+    <p>Os estímulos TENSIONAIS atuam diretamente sobre as fibras musculares, aumentando as microlesões , porque promove um nível maior de tensão através da carga que usamos para realizar o exercício. É composto por cargas mais altas, menos repetições e  MAIOR tempo de descanso entre as séries.</p> 
+    <p>Já os estímulos METABÓLICOS não dependem de carga alta, trabalham com mais repetições e MENOS descanso entre as séries.  Durante as contrações musculares mais prolongadas ocorre um aumento considerável na atividade dos processos de produção energética, caracterizando uma maior carga metabólica que contribui para o aumento muscular. </p> 
+    <p> Exemplos de  de métodos de treino que utilizam estímulos metabólicos: o super-set, o drop-set e o bi-set.</p>
+    <p>A principal diferença dos dois métodos é que o Tensional exige muito das articulações devido a altas cargas, aumentando o risco de lesão muscular quando esse estímulo é usado por longos períodos de treino. Já o metabólico permite períodos de descanso para os tendões e articulações. </p> 
+    <p> Na prática não existe um treino 100% metabólico ou 100% tensional, sempre os dois estímulos estarão ocorrendo simultaneamente, o que muda é a predominância. Por isso alternar esses estímulos dentro de uma periodização é o melhor para ter bons resultados.</p>
+</body>
+</html>
